@@ -60,7 +60,7 @@ The histogram and KDE plot show the distribution of weekly sales. It appears tha
 b. Seasonal Trends in Weekly Sales
 Weekly sales display a clear seasonal pattern, with peaks typically observed during March, April, and July, and noticeable declines in December, followed by lower sales in January and February. These fluctuations may be attributed to seasonal consumer behaviour, holiday spending cycles, and post-holiday slowdowns.
  
-________________________________________
+
 
 c. Temperature and Weekly Sales
 The correlation between weekly sales and temperature is very weak (-0.0638), indicating that temperature has negligible influence on sales performance across stores.  
@@ -86,3 +86,5 @@ The difference between the highest-performing store (Store 20) and the lowest-pe
 ## 📈 Key Visualization
 
 [Insert Screenshot of your Sales Forecast Plot here]
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/666a27db-d9c6-41f4-a42c-2fab5886153f" />
+
