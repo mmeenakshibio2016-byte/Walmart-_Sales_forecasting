@@ -1,0 +1,7 @@
+forecastiq-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── forecast-chart.png
